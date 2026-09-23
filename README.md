@@ -1,1 +1,1 @@
-This line was edited by Branch A.
+This line contains changes from both Branch A and Branch B.
